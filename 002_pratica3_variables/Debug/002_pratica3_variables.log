@@ -1,3 +1,5 @@
 ﻿  002_pratica3_variables.cpp
 C:\Users\ALUMNO\Desktop\F_programacion_ZAP1079\002_pratica3_variables\002_pratica3_variables.cpp(23,15): warning C4804: '/': uso no seguro del tipo 'bool' en la operación
-  002_pratica3_variables.vcxproj -> C:\Users\ALUMNO\Desktop\F_programacion_ZAP1079\002_pratica3_variables\Debug\002_pratica3_variables.exe
+C:\Users\ALUMNO\Desktop\F_programacion_ZAP1079\002_pratica3_variables\002_pratica3_variables.cpp(54,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\ALUMNO\Desktop\F_programacion_ZAP1079\002_pratica3_variables\002_pratica3_variables.cpp(59,33): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ALUMNO\Desktop\F_programacion_ZAP1079\002_pratica3_variables\002_pratica3_variables.cpp(62,30): error C2065: 'Â´0Â´': identificador no declarado

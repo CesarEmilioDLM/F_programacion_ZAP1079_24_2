@@ -50,4 +50,14 @@ int main()
             std::cout << "el dinero de jeef es:";
             std::cout << money;
 
+
+                float miNumero = 9.93202;
+
+                
+                std::cout << "El valor de miNumero es: " << miNumero << std::endl;
+
+                float resultado = miNumero * 2.0;
+                std::cout << "El resultado de multiplicar miNumero por 2 es: " << resultado << std::endl;
+
+                
 }
