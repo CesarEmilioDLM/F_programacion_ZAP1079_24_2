@@ -2,28 +2,19 @@
 //
 
 #include <iostream>
+#include <cmath>
 #include <locale>
 
 int main()
 {
     setlocale(LC_ALL,"es_MX.UTF-8");
-
-    bool a = true;
-    bool b = true;
-    bool c = true;
-    c = a + b;
-    std::cout << "la suma de booleanos da " << c << "\n";
+// bool tiene suma resta divsion y multiplicacion
+// int tiene
+    //char tiene
+    //double
+    //float 
+    //string
     
-    bool a1 = a - b;
-    std::cout << "la resta de booleanos da " << c << "\n";
-
-    bool a2 = a * b;
-    std::cout << "la multiplicacion de booleanos da " << c << "\n";
-
-    bool a3 = a / b;
-    std::cout << "la multiplicacion de booleanos da " << c << "\n";
-
-    bool bandera = true;
     std::cout << "El valor de la variable booleana llamada bandera es: " << bandera << std::endl;
     int edad = 0;
     std::cout << "El valor de la variable entera llamada edad es: " << edad << std::endl;
@@ -38,7 +29,7 @@ int main()
         std::cout << std::endl;
         std::cout << "Entonces pesas: " << peso << " peso\n";
         
-    char food[10] = "";
+        char food[10] = "";
         std::cout << "comida favorita";
         std::cin >> food;
         std::cout << "tu comida favorita:";
@@ -48,16 +39,17 @@ int main()
         std::cout << "dinero de jeff bessos";
             std::cin >> money;
             std::cout << "el dinero de jeef es:";
-            std::cout << money;
-
-
-                float miNumero = 9.93202;
+            std::cout << money <<std::endl;
 
                 
-                std::cout << "El valor de miNumero es: " << miNumero << std::endl;
+                std::string apodo;
+                std::cout << "cual es tu apodo\n";
+                std::cin >> apodo;
+                std::string nombre;
+                std::cout << "y cual es tu nombre\n";
+                std::cin >> nombre; 
 
-                float resultado = miNumero * 2.0;
-                std::cout << "El resultado de multiplicar miNumero por 2 es: " << resultado << std::endl;
 
-                
+                    
+
 }
