@@ -1,0 +1,6 @@
+﻿  001_Hola_mundo.cpp
+C:\Users\ALUMNO\source\repos\001_Hola_mundo\001_Hola_mundo.cpp(140,20): warning C4804: '/': uso no seguro del tipo 'bool' en la operación
+C:\Users\ALUMNO\source\repos\001_Hola_mundo\001_Hola_mundo.cpp(182,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ALUMNO\source\repos\001_Hola_mundo\001_Hola_mundo.cpp(187,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ALUMNO\source\repos\001_Hola_mundo\001_Hola_mundo.cpp(204,17): warning C4244: '=': conversión de 'double' a 'char'; posible pérdida de datos
+  001_Hola_mundo.vcxproj -> C:\Users\ALUMNO\source\repos\001_Hola_mundo\Debug\001_Hola_mundo.exe
