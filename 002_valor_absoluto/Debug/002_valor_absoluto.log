@@ -1,7 +1,2 @@
 ﻿  002_valor_absoluto.cpp
-C:\Users\ALUMNO\Desktop\F_programacion_ZAP1079\002_valor_absoluto\002_valor_absoluto.cpp(10,17): error C2065: 'numero': identificador no declarado
-C:\Users\ALUMNO\Desktop\F_programacion_ZAP1079\002_valor_absoluto\002_valor_absoluto.cpp(13,9): error C2065: 'numero': identificador no declarado
-C:\Users\ALUMNO\Desktop\F_programacion_ZAP1079\002_valor_absoluto\002_valor_absoluto.cpp(14,9): error C2065: 'numero': identificador no declarado
-C:\Users\ALUMNO\Desktop\F_programacion_ZAP1079\002_valor_absoluto\002_valor_absoluto.cpp(14,19): error C2065: 'numero': identificador no declarado
-C:\Users\ALUMNO\Desktop\F_programacion_ZAP1079\002_valor_absoluto\002_valor_absoluto.cpp(17,46): error C2065: 'numero': identificador no declarado
-C:\Users\ALUMNO\Desktop\F_programacion_ZAP1079\002_valor_absoluto\002_valor_absoluto.cpp(17,56): error C2065: 'endl': identificador no declarado
+  002_valor_absoluto.vcxproj -> C:\Users\ALUMNO\Desktop\F_programacion_ZAP1079\002_valor_absoluto\Debug\002_valor_absoluto.exe
