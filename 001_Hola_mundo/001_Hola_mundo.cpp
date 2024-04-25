@@ -203,4 +203,5 @@ int main()
     char1 = char3 * char3;
     char2 = sqrt(char4);
     std::cout << char1 << space1 << char2 << std::endl;
+
 }
