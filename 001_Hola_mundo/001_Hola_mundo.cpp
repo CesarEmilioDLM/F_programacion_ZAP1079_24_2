@@ -4,6 +4,7 @@
 #include <iostream>
 #include <cmath>
 #include <locale>
+#include<string>
 
 int main()
 {
@@ -21,14 +22,12 @@ int main()
 
     char comidafav = 1;
 
-
-    std::cout << "cual es tu comida fav " << comidafav << std::endl;
-    std::cout << "¿Cual es tu comida fav?" << std::endl;
+    
+    std::cout << "cual es la inicial de tu comida fav " << comidafav << std::endl;
+    std::cout << "¿Cual es la inicial de tu comida fav?" << std::endl;
     std::cin >> comidafav;
     std::cout << "Tu comida fav es " << comidafav << std::endl;
 
-    char comidacsii = 89;
-    std::cout << "Tu comida fav es " << comidacsii << std::endl;
 
 
     int Edad = 0;
@@ -58,9 +57,13 @@ int main()
 
 
     std::cout << insulto << std::endl;
-    std::cout << "fyou " << std::endl;
-    std::cin >> insulto;
-    std::cout << insulto << std::endl;
+    std::cin.ignore();
+   
+    //añadir getline
+    //ignorar el buffer
+    std::getline(std::cin, insulto);
+    
+    std::cout << "pues " << insulto << std::endl;
 
 
 
