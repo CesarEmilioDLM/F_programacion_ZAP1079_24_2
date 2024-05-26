@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "p013_bucles", "p013_bucles.vcxproj", "{59AC906E-F6B9-49EE-8414-92C0B6E958BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59AC906E-F6B9-49EE-8414-92C0B6E958BE}.Debug|x64.ActiveCfg = Debug|x64
+		{59AC906E-F6B9-49EE-8414-92C0B6E958BE}.Debug|x64.Build.0 = Debug|x64
+		{59AC906E-F6B9-49EE-8414-92C0B6E958BE}.Debug|x86.ActiveCfg = Debug|Win32
+		{59AC906E-F6B9-49EE-8414-92C0B6E958BE}.Debug|x86.Build.0 = Debug|Win32
+		{59AC906E-F6B9-49EE-8414-92C0B6E958BE}.Release|x64.ActiveCfg = Release|x64
+		{59AC906E-F6B9-49EE-8414-92C0B6E958BE}.Release|x64.Build.0 = Release|x64
+		{59AC906E-F6B9-49EE-8414-92C0B6E958BE}.Release|x86.ActiveCfg = Release|Win32
+		{59AC906E-F6B9-49EE-8414-92C0B6E958BE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61552DEA-8351-47E3-8BC8-ECCC414D036F}
+	EndGlobalSection
+EndGlobal
