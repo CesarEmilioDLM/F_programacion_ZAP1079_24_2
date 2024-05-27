@@ -1,0 +1,4 @@
+﻿  batalla_pokemon.cpp
+C:\Users\emili\OneDrive\Documentos\GitHub\F_Programacion_zap1079_24-2\batalla_pokemon\batalla_pokemon.cpp(60,44): warning C4305: '=': truncamiento de '__int64' a 'int'
+C:\Users\emili\OneDrive\Documentos\GitHub\F_Programacion_zap1079_24-2\batalla_pokemon\batalla_pokemon.cpp(60,44): warning C4309: '=': truncamiento de valor constante
+  batalla_pokemon.vcxproj -> C:\Users\emili\OneDrive\Documentos\GitHub\F_Programacion_zap1079_24-2\batalla_pokemon\x64\Debug\batalla_pokemon.exe
