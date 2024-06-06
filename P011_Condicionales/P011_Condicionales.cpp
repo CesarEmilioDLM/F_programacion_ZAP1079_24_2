@@ -1,5 +1,9 @@
 // P011_Condicionales.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
+
+
+
+
+//proteccion de codigo
 #include <iostream>
 #include <locale>
 #include <string>
@@ -7,7 +11,7 @@ int main()
 {
     setlocale(LC_ALL, "es_MX.UTF-8");
     std::cout << " elije uno de los siguientes deportes: futbol, futbol americano, tenis, volleyball y basketball. voy a tener que adivinar cual es: ";
-    std::string comodin;
+    char comodin;
     std::cout << "¿tiene porteria?";
     std::cin >> comodin;
     std::string respuesta;
