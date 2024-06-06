@@ -1,10 +1,5 @@
 // p013_bucles.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-
-
-
-
-
-//proteger datos y repetir
+//
 
 #include <iostream>
 #include <string>

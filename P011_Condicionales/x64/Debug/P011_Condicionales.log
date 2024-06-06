@@ -1,3 +1,0 @@
-﻿  P011_Condicionales.cpp
-C:\Users\ALUMNO\OneDrive\Escritorio\F_programacion_ZAP1079\P011_Condicionales\P011_Condicionales.cpp(18,23): error C2446: ==': no hay conversión de 'const char [2]' en 'int'
-C:\Users\ALUMNO\OneDrive\Escritorio\F_programacion_ZAP1079\P011_Condicionales\P011_Condicionales.cpp(18,20): message : No existe un contexto en el que sea posible realizar esta conversión

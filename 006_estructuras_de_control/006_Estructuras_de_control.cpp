@@ -14,11 +14,11 @@ int main()
     std::string contrasena1;
     std::string nombre1;
     std::string correo1;
-    // Solicitar nombre utilizar getline
+    // Solicitar nombre
     std::cout << "Ingrese su nombre: ";
     std::cin >> nombre;
 
-    // Solicitar correo electrónico confirmar o limpiar buffer con cin.ignore
+    // Solicitar correo electrónico
     std::cout << "Ingrese su correo electrónico: ";
     std::cin >> correo;
 

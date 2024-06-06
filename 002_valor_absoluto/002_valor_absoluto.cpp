@@ -9,17 +9,15 @@ int main()
 //datos de salida: valor absoluto
 //proceso=numero *(-1)
 
-{double numero;
-std::cout << "Ingresa tu numero: ";
-std::cin >> numero;
+{
+  
+    double numero;
+    std::cout << "ingresa tu numero en negativo";
+    std::cin >> numero;
+    double numpos = numero * (-1);
 
-if (numero >= 0) {
-    std::cout << "El numero ingresado es positivo y se mantiene igual: " << numero << std::endl;
-}
-else {
-    double numpos = -numero;
-    std::cout << "El numero ingresado era negativo, ahora esta en positivo: " << numpos << std::endl;
-}
+    std::cout << " tu numero negativo ahora esta en positivo " << numpos << std::endl ;
 
-return 0;
-}
+  
+    }
+
