@@ -1,0 +1,3 @@
+﻿  024_palindromo.cpp
+C:\Users\emili\OneDrive\Documentos\GitHub\F_Programacion_zap1079_24-2\024_palindromo\024_palindromo.cpp(32,13): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  024_palindromo.vcxproj -> C:\Users\emili\OneDrive\Documentos\GitHub\F_Programacion_zap1079_24-2\024_palindromo\x64\Debug\024_palindromo.exe
